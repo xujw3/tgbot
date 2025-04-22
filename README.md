@@ -37,8 +37,7 @@ CLEAN_INTERVAL_MINUTES=60
 SIZE_THRESHOLD=100
 ```
 
--`BOT_TOKEN`：从 [@BotFather](https://t.me/BotFather) 获取的 Bot Token
--`WEBHOOK_SECRET`：自定义的 Webhook 密钥，用于验证请求来源
+-`TELEGRAM_TOKEN`：从 [@BotFather](https://t.me/BotFather) 获取的 Bot Token
 
 ### 4. 部署到 Cloudflare Workers
 使用 [wrangler](https://developers.cloudflare.com/workers/wrangler/) 工具进行部署
