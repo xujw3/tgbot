@@ -78,6 +78,6 @@ tgbot/
 ``
 
 
-## 📄 许可证
+## 📄 License
 
-本项目采用 [MIT License](https://raw.githubusercontent.com/xujw3/tgbot/refs/heads/main/LICENSE) 开源发布，您可以自由使用、修改和分发此项目。
+This project is licensed under the terms of the [MIT License](https://raw.githubusercontent.com/xujw3/tgbot/refs/heads/main/LICENSE).
