@@ -75,9 +75,9 @@ tgbot/
 ├── requirements.txt   # Python 依赖列表
 ├── Dockerfile         # Docker 配置文件（可选）
 └── README.md          # 项目说明文档
-``
+```
 
 
-## 📄 License
+## 📄 许可证
 
-This project is licensed under the terms of the [MIT License](https://raw.githubusercontent.com/xujw3/tgbot/refs/heads/main/LICENSE).
+本项目采用 [MIT License](https://raw.githubusercontent.com/xujw3/tgbot/refs/heads/main/LICENSE) 开源发布，您可以自由使用、修改和分发此项目。
