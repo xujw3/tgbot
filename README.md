@@ -57,7 +57,7 @@ curl -X POST https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook \
 
 ```
 Hello, World!
-``
+```
 
 Bot 回复：
 
