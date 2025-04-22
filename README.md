@@ -27,8 +27,14 @@ pip install -r requirements.txt
 在项目根目录下创建 `.env` 文件，并添加以下内容
 
 ```env
-BOT_TOKEN=your_telegram_bot_token
-WEBHOOK_SECRET=your_webhook_secret
+TELEGRAM_TOKEN=
+ALIST_BASE_URL=
+ALIST_TOKEN=
+ALIST_OFFLINE_DIRS=
+JAV_SEARCH_API=
+ALLOWED_USER_IDS=
+CLEAN_INTERVAL_MINUTES=60
+SIZE_THRESHOLD=100
 ```
 
 -`BOT_TOKEN`：从 [@BotFather](https://t.me/BotFather) 获取的 Bot Token
