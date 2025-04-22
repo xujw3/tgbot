@@ -53,20 +53,20 @@ curl -X POST https://api.telegram.org/bot<YOUR_BOT_TOKEN>/setWebhook \
 请将 `<YOUR_BOT_TOKEN>`、`<YOUR_WORKERS_SUBDOMAIN>` 和 `<YOUR_WEBHOOK_SECRET>` 替换为您的实际值
 
 ## 🧪 示例
-用户发送消：
+用户发送消息：
 
 ```
 Hello, World!
 ``
 
-Bot 回：
+Bot 回复：
 
 ```
 Echo: Hello, World!
 ``
 
 
-## 🛠️ 项目结
+## 🛠️ 项目结构
 
 
 ```plaintext
@@ -78,6 +78,6 @@ tgbot/
 ``
 
 
-## 📄 许证
+## 📄 许可证
 
 本项目基于 MIT 许可证，详细信息请参阅 [LICENSE](LICENSE)文件。
