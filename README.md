@@ -80,4 +80,4 @@ tgbot/
 
 ## 📄 许可证
 
-本项目基于 MIT 许可证，详细信息请参阅[LICENSE](https://raw.githubusercontent.com/xujw3/tgbot/refs/heads/main/LICENSE)文件。
+本项目采用 [MIT License](https://raw.githubusercontent.com/xujw3/tgbot/refs/heads/main/LICENSE) 开源发布，您可以自由使用、修改和分发此项目。
